@@ -1,2 +1,2 @@
 # SQL-Basic
-SQL HackerRank Basic Quries
+SQL HackerRank Basic Queries
